@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPN 搭建与排障"
+  short_description: "从 VPS 到 3x-ui、REALITY 和 v2rayN，完成搭建、验收与多设备分发"
+  default_prompt: "使用 $vpn-deploy，按我的现有服务器和客户端环境完成搭建或排障，并逐步验证。"

@@ -1,0 +1,21 @@
+# Keep private runtime data and packaging output out of publication.
+dist/
+.publish/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.db
+*.sqlite*
+*.log
+*.zip
+*.bak
+secrets/
+private/
+.vless-test-*.txt
